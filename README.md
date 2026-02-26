@@ -81,5 +81,3 @@ vvp riscv_core
 ```
 
 ---
-
-Would you like me to create a separate document detailing how to add new instructions to your ALU and Control Unit, in case you want to expand the CPU later?
