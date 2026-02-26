@@ -1,0 +1,1 @@
+interface -> user input -> input will be changed on c code -> c code to hex 1 -> c c code to hex 2 -> i.m changed -> compile files -> run result
